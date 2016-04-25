@@ -1,9 +1,15 @@
 === Easy Hide Login ===
+
 Contributors: arshidkv12
+
 Tags: hide login, wp-login.php,hacking, hide, security, wordpress hide, wp-hide,hide my wp
+
 Requires at least: 2.8
+
 Tested up to: 4.5
+
 Stable tag: 1.0.1
+
 License: GPLv2
 
 Hide wp-login.php file and increase security of your website. No files are changed on your website.
